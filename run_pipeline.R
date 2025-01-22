@@ -6,7 +6,7 @@ graphics.off()
 
 # SOURCE ----
 
-## Read configuration file
+## Read configuration file ----
 source("/home/imer/works/data.integration/config.R")
 setwd(baseDir)
 
