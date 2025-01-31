@@ -16,7 +16,7 @@ dupCedap = cedap |> filter(key %in% dupByKey$key)
 
 write_csv2(dupCedap, file=paste0(exportDir,"/duplicati_codazi_sdoneo.csv"))
 
-## prog_paz_neo prova
+## prog_paz_neo
 
 table(str_length(cedap$COD_AZI))
 table(str_length(cedap$SDO_NEO))
