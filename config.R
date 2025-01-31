@@ -19,7 +19,7 @@
 
 # PATH ----
 
-baseDir="/home/imer/works/data.integration"
+baseDir="/home/imer/works/DARIO"
 redcapDir=paste0(baseDir,"/redcap")
 cedapDir=paste0(baseDir,"/cedap")
 exportDir=paste0(baseDir,"/export")

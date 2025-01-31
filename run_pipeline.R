@@ -7,7 +7,7 @@ graphics.off()
 # SOURCE ----
 
 ## Read configuration file ----
-source("/home/imer/works/data.integration/config.R")
+source("/home/imer/works/DARIO/config.R")
 setwd(baseDir)
 
 # DATA IMPORT ----
